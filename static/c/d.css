@@ -1,0 +1,5 @@
+body {font-size: small; font-family: arial; padding: 0; margin: 0;}
+#header h1 {padding: 5px 20px ;background:#000; margin: 0; color: #fff; border-bottom: 3px solid #666;}
+#header p {margin: 0 20px; font-style: italic;}
+#content {margin: 0 20px; border: 2px solid #ececec;}
+.t-h2 {margin: 0; background: #ececec; }
